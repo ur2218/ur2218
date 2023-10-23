@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ur2218
 - 👀 I’m interested in studying programming.
 - 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on making a programming.
+- 💞️ I’m looking to collaborate on making a programming project.
 - 📫 How to reach me is "https://open.kakao.com/me/urscodingworld"
 
 <!---
